@@ -1,2 +1,2 @@
-# adder-systemverilog
-full adder made for circuits with systemverilog
+# Adder SystemVerilog
+Full adder made for circuits with systemverilog
