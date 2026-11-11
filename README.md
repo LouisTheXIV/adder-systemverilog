@@ -1,4 +1,5 @@
 # Adder SystemVerilog
 Full adder made for circuits with systemverilog
-<img width="1361" height="158" alt="image" src="https://github.com/user-attachments/assets/5a6ad786-f343-43d2-9066-53ae2fd55bfc" />
+<img width="1406" height="220" alt="image" src="https://github.com/user-attachments/assets/dadb1126-3e32-4094-b854-7a6ca9969748" />
+
 
